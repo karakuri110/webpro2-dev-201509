@@ -1,3 +1,3 @@
 <?php
-    eco 'Hello World';
+    echo 'Hello World';
 ?>
